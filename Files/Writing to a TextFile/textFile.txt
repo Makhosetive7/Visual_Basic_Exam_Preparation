@@ -1,0 +1,5 @@
+fish - 1
+bread - 34
+milk - 5
+soghum - 23
+millet 67 - 45
