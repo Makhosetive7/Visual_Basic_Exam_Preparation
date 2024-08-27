@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ONE OF THE INPUTS IS NOT A NUMBER/1.0.0": {
+        "runtime": {
+          "ONE OF THE INPUTS IS NOT A NUMBER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ONE OF THE INPUTS IS NOT A NUMBER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\bin\Debug\Factorial, Cube, Square_Root.exe.config
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\bin\Debug\Factorial, Cube, Square_Root.exe
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\bin\Debug\Factorial, Cube, Square_Root.pdb
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\bin\Debug\Factorial, Cube, Square_Root.xml
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\obj\Debug\Factorial, Cube, Square_Root.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\obj\Debug\Factorial__Cube__Square_Root.Form1.resources
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\obj\Debug\Factorial__Cube__Square_Root.Resources.resources
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\obj\Debug\Factorial, Cube, Square_Root.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\obj\Debug\Factorial, Cube, Square_Root.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\obj\Debug\Factorial, Cube, Square_Root.exe
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\obj\Debug\Factorial, Cube, Square_Root.xml
+C:\Users\USER\Desktop\Desktop\Visual_Basic\Simple Arithmetic\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\Factorial, Cube, Square_Root\obj\Debug\Factorial, Cube, Square_Root.pdb
