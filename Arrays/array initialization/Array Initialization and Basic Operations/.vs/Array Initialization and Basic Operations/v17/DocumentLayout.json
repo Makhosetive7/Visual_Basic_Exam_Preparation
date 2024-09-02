@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Desktop\\Visual_Basic\\Arrays\\array initialization\\Array Initialization and Basic Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD11198E-2958-4793-AA55-9540850232F3}|Array Initialization and Basic Operations\\Array Initialization and Basic Operations.vbproj|c:\\users\\user\\desktop\\desktop\\visual_basic\\arrays\\array initialization\\array initialization and basic operations\\array initialization and basic operations\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD11198E-2958-4793-AA55-9540850232F3}|Array Initialization and Basic Operations\\Array Initialization and Basic Operations.vbproj|solutionrelative:array initialization and basic operations\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Desktop\\Visual_Basic\\Arrays\\array initialization\\Array Initialization and Basic Operations\\Array Initialization and Basic Operations\\Module1.vb",
+              "RelativeDocumentMoniker": "Array Initialization and Basic Operations\\Module1.vb",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Desktop\\Visual_Basic\\Arrays\\array initialization\\Array Initialization and Basic Operations\\Array Initialization and Basic Operations\\Module1.vb",
+              "RelativeToolTip": "Array Initialization and Basic Operations\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-02T19:56:20.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
