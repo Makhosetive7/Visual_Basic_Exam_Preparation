@@ -11,7 +11,7 @@
         Dim quantity As Integer
         Dim total As Integer
         Dim discounted_total As Integer
-        Dim discount_rate As Double = 0.0
+        Dim discount_rate As Double
 
         Console.WriteLine("please enter the quantity you want purchase")
         quantity = Console.ReadLine()
@@ -21,9 +21,7 @@
         ElseIf quantity > 120 Then
             discount_rate = 0.15
             Else
-                discount_rate = 0
-
-
+            discount_rate = 0
         End If
 
 
