@@ -12,20 +12,28 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim hours_worked As Integer = Decimal.Parse(TextBox1.Text)
-        Dim rate_per_hour As Integer
+        Dim hours_worked As Integer = Integer.Parse(TextBox1.Text)
+        Dim rate_per_hour As Integer = Integer.Parse(TextBox3.Text)
+        Dim overtime As Integer = Math.Max(0, hours_worked - 40)
+        Dim overtime_pay As Integer = rate_per_hour * overtime * 1.5
+        Dim tax_rate As Decimal = Decimal.Parse(TextBox5.Text) / 100
+
+        Dim gross_salary As Decimal = (hours_worked * rate_per_hour) + overtime
+        Dim tax_deductions As Decimal = gross_salary * tax_rate
+        Dim net_salary As Decimal = gross_salary - tax_deductions
+
+
+        TextBox4.Text = overtime.ToString()
+        Label10.Text = tax_deductions.ToString("C")
+        Label11.Text = net_salary.ToString("C")
 
 
 
-        Dim gross_salary As Integer = 
 
-        If hours_worked > 40 Then
-            TextBox4.Text = hours_worked - 40
-        Else
-            TextBox4.Text = 0
-        End If
 
-        gross_salary = (hours_worked * rate_per_hour)
+
+
+
 
 
 
