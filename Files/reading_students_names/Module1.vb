@@ -7,7 +7,6 @@ Module Module1
 
     Sub Main()
         Dim lines As String
-
         Dim file_path As String = "C:\Users\USER\Desktop\Desktop\Code\Visual_Basic_local_storage\Files\student_names\Student_names\student.txt"
 
 
@@ -20,8 +19,6 @@ Module Module1
                     lines = sr.ReadLine
                     Console.WriteLine(lines)
                 Loop
-
-
             End Using
 
         End If
