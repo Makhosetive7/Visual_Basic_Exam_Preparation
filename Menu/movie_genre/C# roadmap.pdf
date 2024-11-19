@@ -1,0 +1,26 @@
+﻿Public Class Form1
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Me.Text = "Movies"
+        Dim main_movie_genre As New MainMenu
+        Me.Menu = main_movie_genre
+
+
+        Dim action_main_menu As New MenuItem("Action")
+        Dim romantic_main_menu As New MenuItem("Romantic")
+        Dim commedy_main_menu As New MenuItem("Commedy")
+
+        main_movie_genre.MenuItems.Add(action_main_menu)
+        main_movie_genre.MenuItems.Add(romantic_main_menu)
+        main_movie_genre.MenuItems.Add(commedy_main_menu)
+
+
+        Dim oblivion_action_sub_menu As New MenuItem("Oblivion")
+        Dim hitman_action_sub_menu As New MenuItem("Hitman")
+
+        action_main_menu.MenuItems.Add(oblivion_action_sub_menu)
+        action_main_menu.MenuItems.Add(hitman_action_sub_menu)
+
+
+
+    End Sub
+End Class
