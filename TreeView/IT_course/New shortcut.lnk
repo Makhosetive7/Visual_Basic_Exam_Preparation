@@ -1,0 +1,18 @@
+﻿Public Class Form1
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Dim IT_Course As TreeNode = TreeView1.Nodes.Add("Information Technology course")
+
+        IT_Course.Nodes.Add("National certificate")
+        IT_Course.Nodes.Add("National Diploma")
+
+        Dim national_certificate As TreeNode = IT_Course.Nodes.Add("National certificate")
+
+        national_certificate.Nodes.Add("C++")
+        national_certificate.Nodes.Add("CAS")
+
+        Dim national_diploma As TreeNode = national_certificate.Nodes.Add("National diploma")
+
+        national_diploma.Nodes.Add("Visual basic")
+        national_diploma.Nodes.Add("Internet and Web Dev")
+    End Sub
+End Class
